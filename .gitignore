@@ -1,0 +1,35 @@
+### IDE & Editor ###
+.idea/
+# OS garbage
+.DS_Store
+.svn
+nbproject/
+.nbproject/
+*.sublime-project
+
+### Composer ###
+composer.phar
+vendor/
+
+### Laravel ###
+bootstrap/cache/*
+
+storage/app/*
+storage/framework/*
+storage/debugbar/*
+storage/logs/*
+
+.env
+Homestead.yaml
+Homestead.json
+public/assets/
+public/uploads/
+
+### Node ###
+node_modules/
+
+
+### Vagrant ###
+vagrant/puphpet/config.yaml
+vagrant/puphpet/config-custom.yaml
+vagrant/.vagrant/
