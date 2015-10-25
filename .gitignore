@@ -11,14 +11,6 @@ nbproject/
 composer.phar
 vendor/
 
-### Laravel ###
-bootstrap/cache/*
-
-storage/app/*
-storage/framework/*
-storage/debugbar/*
-storage/logs/*
-
 .env
 Homestead.yaml
 Homestead.json
